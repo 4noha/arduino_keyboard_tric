@@ -18,8 +18,8 @@ Arduino内の[標準USBシリアルコントローラー(リンク先はUNO用�
 ## 備考
 標準ではtweet4Mac関数が書き込まれている。内容は
 1. 英数キーを発行し、日本語IMEを切る
-1. Ctrl+SpaceキーでSpotlightを開く
-1. Spotlightで"yor"と入力しYoruFukurouを選択、Enterで起動
-1. Cmd(Windows)+nで投稿フォームにフォーカス
-1. かなキーで日本語IMEを起動
-1. "unnko", Enter, Enterで「うんこ」と投稿する。
+2. Ctrl+SpaceキーでSpotlightを開く
+3. Spotlightで"yor"と入力しYoruFukurouを選択、Enterで起動
+4. Cmd(Windows)+nで投稿フォームにフォーカス
+5. かなキーで日本語IMEを起動
+6. "unnko", Enter, Enterで「うんこ」と投稿する。
